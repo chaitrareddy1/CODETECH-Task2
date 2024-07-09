@@ -10,11 +10,10 @@
 
 ## Project Overview
 
-**Project**: Linear regression on California Housing dataset.
+**Project**:CREDIT CARD FRAUD DETECTION.
 
 **Objective**:
-Linear regression to predict housing prices based on features like square footage, number of bedrooms, and location. Use the California Housing dataset for training and evaluation.
-
+A fraud detection model to identify fraudulent credit card transactions. Use techniques like anomaly detection or supervised learning with imbalanced data.
 ## Key Activities
 
 1. **Data Loading and Exploration**:
@@ -35,6 +34,4 @@ Linear regression to predict housing prices based on features like square footag
 - **Matplotlib**: Plotting library for creating static, interactive, and animated visualizations in Python.
 - **Seaborn**: Statistical data visualization library based on Matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
 - **Scikit-learn**: Machine learning library that provides simple and efficient tools for data mining and data analysis. It includes modules for data loading, preprocessing, model selection, training, and evaluation.
-## output![Screenshot (110)](https://github.com/chaitrareddy1/CODETECH--Task1/assets/158550795/e3101590-d0c7-4b91-ab39-6a070db44d01)
-![Screenshot (109)](https://github.com/chaitrareddy1/CODETECH--Task1/assets/158550795/df2d9351-6824-4a68-9658-4c1bc6dbf634)
-![Screenshot (108)](https://github.com/chaitrareddy1/CODETECH--Task1/assets/158550795/71a90fef-e2ba-4422-be0a-6b6b1770767e)
+## output!![Screenshot (111)](https://github.com/chaitrareddy1/CODETECH-Task2/assets/158550795/1ae97197-ad8e-4b03-a32d-8890d62cfd6a)
